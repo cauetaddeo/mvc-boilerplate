@@ -2,7 +2,7 @@
 
 O modelo lógico do banco de dados está representado no diagrama abaixo:
 
-![Modelo do Banco de Dados](documentos/modelo-banco.png)
+![Modelo do Banco de Dados](modelo-banco.png)
 
 ### Entidades principais:
 
