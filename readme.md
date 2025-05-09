@@ -1,6 +1,6 @@
-# Gerenciador de Tarefas
+# Descrição do sistema escolhido
 
-Este projeto é um sistema de gerenciamento de tarefas desenvolvido como parte do Projeto Individual (COMP Parte 1). Ele permite que usuários cadastrem tarefas, associem a categorias e visualizem os dados através de uma API estruturada em Node.js com o framework Express, utilizando o padrão de projeto MVC (Model-View-Controller).
+Este projeto é um sistema de gerenciamento de tarefas desenvolvido como parte do Projeto Individual (COMP Parte 1). Ele é um exemplo que serve para que usuários cadastrem tarefas, associem a categorias e visualizem os dados através de uma API estruturada em Node.js com o framework Express, utilizando o padrão de projeto MVC (Model-View-Controller).
 
 ## Estrutura de pastas e arquivos
 
